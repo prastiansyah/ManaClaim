@@ -18,10 +18,28 @@ Skrip ini menggabungkan dua fungsi utama:
 - **Logging:** Setiap aktivitas dan error akan dicatat di file `claim_log.log` 📜
 
 ## Cara Penggunaan
-1. **Pastikan Python 3 Terinstall**  
-   Pastikan kamu menggunakan Python 3 di sistem kamu 🐍
+1. **Pastikan Python Terinstall**  
+   Pastikan kamu menggunakan Python di sistem kamu 🐍
 
 2. **Instal Dependencies**  
    Jalankan perintah berikut untuk menginstal paket yang diperlukan:
    ```bash
    pip install -r requirements.txt
+3. Siapkan File Token
+   Buat file data.txt di direktori yang sama dengan skrip.
+   Masukkan token (satu token per baris) ke dalam file tersebut 📄
+4. Jalankan Skrip
+   Jalankan skrip menggunakan: python bot.py
+5. Nikmati Otomatisasi Claim Token! 😎
+
+Konfigurasi
+   File Token: data.txt
+   Backup File: data.txt.bak
+   Log: claim_log.log
+Dependencies
+   requests 📡
+   rich 🌈
+   pytz ⏰
+
+Kontribusi
+   Kontribusi dan saran sangat kami sambut! Jangan ragu untuk fork repository ini dan mengajukan pull request jika kamu memiliki perbaikan atau fitur baru 😊
