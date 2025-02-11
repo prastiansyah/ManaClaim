@@ -35,13 +35,13 @@ Skrip ini menggabungkan dua fungsi utama:
 6. Nikmati Otomatisasi Claim Token! 😎
 
 ## Konfigurasi
-   File Token: data.txt
-   Backup File: data.txt.bak
-   Log: claim_log.log
+  - File Token: data.txt
+  - Backup File: data.txt.bak
+  - Log: claim_log.log
 ## Dependencies
-   requests 📡
-   rich 🌈
-   pytz ⏰
+   - requests 📡
+   - rich 🌈
+   - pytz ⏰
 
 ## Kontribusi
    Kontribusi dan saran sangat kami sambut! Jangan ragu untuk fork repository ini dan mengajukan pull request jika kamu memiliki perbaikan atau fitur baru 😊
