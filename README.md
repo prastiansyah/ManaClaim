@@ -32,14 +32,14 @@ Skrip ini menggabungkan dua fungsi utama:
    Jalankan skrip menggunakan: python bot.py
 5. Nikmati Otomatisasi Claim Token! 😎
 
-Konfigurasi
+## Konfigurasi
    File Token: data.txt
    Backup File: data.txt.bak
    Log: claim_log.log
-Dependencies
+## Dependencies
    requests 📡
    rich 🌈
    pytz ⏰
 
-Kontribusi
+## Kontribusi
    Kontribusi dan saran sangat kami sambut! Jangan ragu untuk fork repository ini dan mengajukan pull request jika kamu memiliki perbaikan atau fitur baru 😊
