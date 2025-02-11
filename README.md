@@ -29,8 +29,10 @@ Skrip ini menggabungkan dua fungsi utama:
    Buat file data.txt di direktori yang sama dengan skrip.
    Masukkan token (satu token per baris) ke dalam file tersebut 📄
 4. Jalankan Skrip
-   Jalankan skrip menggunakan: python bot.py
-5. Nikmati Otomatisasi Claim Token! 😎
+   Jalankan skrip menggunakan:
+   ```bash
+    python bot.py
+6. Nikmati Otomatisasi Claim Token! 😎
 
 ## Konfigurasi
    File Token: data.txt
